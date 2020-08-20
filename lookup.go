@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/soundcloud/go-dns-resolver/resolv"
+	"github.com/blockcypher/go-dns-resolver/resolv"
 	"log"
 )
 
